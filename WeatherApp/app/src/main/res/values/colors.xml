@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Purple">#FF6200EE</color>
+    <color name="Teal">#FF03DAC5</color>
+    <color name="Black">#FF000000</color>
+    <color name="White">#FFFFFFFF</color>
+
+    <color name="Drakula">#333</color>
+
+    <color name="text_Color">#fff</color>
+    <color name="text_Color_Hint">#ccc</color>
+</resources>
